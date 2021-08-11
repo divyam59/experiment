@@ -1,2 +1,7 @@
 check 1
+<<<<<<< HEAD
 check 3
+=======
+
+check 2
+>>>>>>> 3e8d105f82cc42218eeaf0fca747f53c52884594
